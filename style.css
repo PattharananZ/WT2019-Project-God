@@ -5,3 +5,6 @@ div.col-lg{
 img.img-thumbnail{
     padding: 0%;
 }
+label{
+    cursor: pointer;
+}
