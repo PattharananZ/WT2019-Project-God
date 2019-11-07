@@ -17,20 +17,20 @@ h1{
   }
  
   b{
-    color: #53285f;
+    color: white;
     font-family: 'Sriracha', cursive;
     margin-left:2%;
     font-size: 144%;
  }
  .bold1{
   font-size: 144%;
-  color: #d77aff;
+  color: #cef9ff;
   font-family: 'Sriracha', cursive;
 
 }
 .bold2{
   font-size: 144%;
-  color: #8d230e;
+  color: #1879c8;
   font-family: 'Sriracha', cursive;
   text-align:center;
 }
@@ -493,6 +493,15 @@ h1{
         text-justify: inter-word;
         position: absolute;
     }
+    .topic{
+      z-index: 5;
+      position: absolute;
+      margin-left: 20%;
+      color: #ffc2ec;
+      font-family: 'Sriracha', cursive;
+      margin-top: -74%;
+      font-size: 120%;
+    }
   }
     @media (min-width: 360px){
       .boxtext1 {
@@ -504,15 +513,24 @@ h1{
           margin-top: -45%;
         height: 75px;
         width: 100px;
+        color: #ffc2ec;
+        background-color: #a44bca;
+        margin-left: 1%;
+          margin-right: 1%;
           font-family: 'Sriracha', cursive;
           font-size: 4.2px;
-          margin-left: 1%;
-          margin-right: 1%;
-          color: #ffc2ec;
-            background-color: #a44bca;
           text-align: justify;
           text-justify: inter-word;
           position: absolute;
+      }
+      .topic{
+        z-index: 5;
+        position: absolute;
+        margin-left: 25%;
+        color: #ffc2ec;
+        font-family: 'Sriracha', cursive;
+        margin-top: -74%;
+        font-size: 120%;
       }
      }
       @media (min-width: 410px){
@@ -523,18 +541,27 @@ h1{
             flex-grow: 1;
             max-width: 100%;
             margin-top: -41%;
-            height: 96px;
-            width: 150px;
+            height: 86px;
+            width: 121px;
             color: rgb(255, 255, 255);
             font-family: 'Sriracha', cursive;
             font-size: 5px;
-            margin-left: 1.8%;
-            margin-right: 1.8%;
-            color: #402528;
-            background-color: #bd665d;
+            color: #ffc2ec;
+        background-color: #a44bca;
+        margin-left: 1%;
+          margin-right: 1%;
             text-align: justify;
             text-justify: inter-word;
             position: absolute;
+        }
+        .topic{
+          z-index: 5;
+          position: absolute;
+          margin-left: 25%;
+          color: #ffc2ec;
+          font-family: 'Sriracha', cursive;
+          margin-top: -74%;
+          font-size: 136%;
         }
        }
         @media (min-width: 530px){
@@ -545,18 +572,27 @@ h1{
               flex-grow: 1;
               max-width: 100%;
               margin-top: -41%;
-              height: 137px;
-              width: 212px;
+              height: 127px;
+              width: 170px;
               color: rgb(255, 255, 255);
               font-family: 'Sriracha', cursive;
               font-size: 7px;
-              margin-left: 1.8%;
-              margin-right: 1.8%;
-              color: #402528;
-              background-color: #bd665d;
+              color: #ffc2ec;
+        background-color: #a44bca;
+        margin-left: 1%;
+          margin-right: 1%;
               text-align: justify;
               text-justify: inter-word;
               position: absolute;
+          }
+          .topic{
+            z-index: 5;
+            position: absolute;
+            margin-left: 28%;
+            color: #ffc2ec;
+            font-family: 'Sriracha', cursive;
+            margin-top: -74%;
+            font-size: 160%;
           }
          }
           @media (min-width: 640px){
@@ -568,17 +604,26 @@ h1{
                 max-width: 100%;
                 margin-top: -41%;
                 height: 160px;
-                width: 240px;
+                width: 200px;
                 color: rgb(255, 255, 255);
                 font-family: 'Sriracha', cursive;
                 font-size: 8px;
-                margin-left: 1.8%;
-                margin-right: 1.8%;
-                color: #402528;
-                background-color: #bd665d;
+                color: #ffc2ec;
+                background-color: #a44bca;
+                margin-left: 1%;
+                margin-right: 1%;
                 text-align: justify;
                 text-justify: inter-word;
                 position: absolute;
+            }
+            .topic{
+              z-index: 5;
+              position: absolute;
+              margin-left: 28%;
+              color: #ffc2ec;
+              font-family: 'Sriracha', cursive;
+              margin-top: -74%;
+              font-size: 200%;
             }
            }
             @media (min-width: 750px){
@@ -589,18 +634,27 @@ h1{
                   flex-grow: 1;
                   max-width: 100%;
                   margin-top: -41%;
-                  height: 184px;
-                  width: 300px;
+                  height: 174px;
+                  width: 230px;
                   color: rgb(255, 255, 255);
                   font-family: 'Sriracha', cursive;
                   font-size: 9.6px;
-                  margin-left: 1.8%;
-                  margin-right: 1.8%;
-                  color: #402528;
-                  background-color: #bd665d;
+                  color: #ffc2ec;
+                background-color: #a44bca;
+                margin-left: 1%;
+                margin-right: 1%;
                   text-align: justify;
                   text-justify: inter-word;
                   position: absolute;
+              }
+              .topic{
+                z-index: 5;
+                position: absolute;
+                margin-left: 28%;
+                color: #ffc2ec;
+                font-family: 'Sriracha', cursive;
+                margin-top: -74%;
+                font-size: 240%;
               }
              }
               @media (min-width: 900px){
@@ -611,18 +665,27 @@ h1{
                     flex-grow: 1;
                     max-width: 100%;
                     margin-top: -41%;
-                    height: 235px;
-                    width: 352px;
+                    height: 225px;
+                    width: 302px;
                     color: rgb(255, 255, 255);
                     font-family: 'Sriracha', cursive;
                     font-size: 12px;
-                    margin-left: 1.8%;
-                    margin-right: 1.8%;
-                    color: #402528;
-                    background-color: #bd665d;
+                    color: #ffc2ec;
+                background-color: #a44bca;
+                margin-left: 1%;
+                margin-right: 1%;
                     text-align: justify;
                     text-justify: inter-word;
                     position: absolute;
+                }
+                .topic{
+                  z-index: 5;
+                  position: absolute;
+                  margin-left: 28%;
+                  color: #ffc2ec;
+                  font-family: 'Sriracha', cursive;
+                  margin-top: -74%;
+                  font-size: 300%;
                 }
                }
                 @media (min-width: 1080px){
@@ -633,18 +696,27 @@ h1{
                       flex-grow: 1;
                       max-width: 100%;
                       margin-top: -41%;
-                      height: 300px;
-                      width: 440px;
+                      height: 270px;
+                      width: 370px;
                       color: rgb(255, 255, 255);
                       font-family: 'Sriracha', cursive;
                       font-size: 14.7px;
-                      margin-left: 1.8%;
-                      margin-right: 1.8%;
-                      color: #402528;
-                      background-color: #bd665d;
+                      color: #ffc2ec;
+                      background-color: #a44bca;
+                      margin-left: 1%;
+                     margin-right: 1%;
                       text-align: justify;
                       text-justify: inter-word;
                       position: absolute;
+                  }
+                  .topic{
+                    z-index: 5;
+                    position: absolute;
+                    margin-left: 28%;
+                    color: #ffc2ec;
+                    font-family: 'Sriracha', cursive;
+                    margin-top: -74%;
+                    font-size: 350%;
                   }
                  }
                   @media (min-width: 1366px){
@@ -655,18 +727,27 @@ h1{
                         flex-grow: 1;
                         max-width: 100%;
                         margin-top: -41%;
-                        height: 340px;
-                        width: 499px;
+                        height: 320px;
+                        width: 425px;
                         color: rgb(255, 255, 255);
                         font-family: 'Sriracha', cursive;
                         font-size: 17px;
-                        margin-left: 1.8%;
-                        margin-right: 1.8%;
-                        color: #402528;
-                        background-color: #bd665d;
+                        color: #ffc2ec;
+                        background-color: #a44bca;
+                        margin-left: 1%;
+                        margin-right: 1%;
                         text-align: justify;
                         text-justify: inter-word;
                         position: absolute;
+                    }
+                    .topic{
+                      z-index: 5;
+                      position: absolute;
+                      margin-left: 28%;
+                      color: #ffc2ec;
+                      font-family: 'Sriracha', cursive;
+                      margin-top: -74%;
+                      font-size: 420%;
                     }
                    }
                     @media (min-width: 1540px){
@@ -677,18 +758,27 @@ h1{
                           flex-grow: 1;
                           max-width: 100%;
                           margin-top: -41%;
-                          height: 410px;
-                          width: 560px;
+                          height: 360px;
+                          width: 500px;
                           color: rgb(255, 255, 255);
                           font-family: 'Sriracha', cursive;
                           font-size: 19.7px;
-                          margin-left: 1.8%;
-                          margin-right: 1.8%;
-                          color: #402528;
-                          background-color: #bd665d;
+                          color: #ffc2ec;
+                        background-color: #a44bca;
+                        margin-left: 1%;
+                        margin-right: 1%;
                           text-align: justify;
                           text-justify: inter-word;
                           position: absolute;
+                      }
+                      .topic{
+                        z-index: 5;
+                        position: absolute;
+                        margin-left: 28%;
+                        color: #ffc2ec;
+                        font-family: 'Sriracha', cursive;
+                        margin-top: -74%;
+                        font-size: 480%;
                       }
                      }
                       @media (min-width: 1790px){
@@ -699,20 +789,281 @@ h1{
                             flex-grow: 1;
                             max-width: 100%;
                             margin-top: -41%;
-                            height: 450px;
-                            width: 675px;
+                            height: 420px;
+                            width: 575px;
                             color: rgb(255, 255, 255);
                             font-family: 'Sriracha', cursive;
                             font-size: 23px;
-                            margin-left: 1.8%;
-                            margin-right: 1.8%;
-                            color: #402528;
-                            background-color: #bd665d;
+                            color: #ffc2ec;
+                        background-color: #a44bca;
+                        margin-left: 1%;
+                        margin-right: 1%;
                             text-align: justify;
                             text-justify: inter-word;
                             position: absolute;
                         }
+                        .topic{
+                          z-index: 5;
+                          position: absolute;
+                          margin-left: 30%;
+                          color: #ffc2ec;
+                          font-family: 'Sriracha', cursive;
+                          margin-top: -74%;
+                          font-size: 580%;
+                        }
                        }
+
+                       @media (max-width: 2040px){
+                        .boxtext5{
+                           -ms-flex-preferred-size: 0;
+                           flex-basis: 0;
+                           -ms-flex-positive: 1;
+                           flex-grow: 1;
+                           max-width: 100%;
+                           margin-top: -40%;
+                           margin-left: 4%;
+                           font-family: 'Sriracha', cursive;
+                           font-size: 3px;
+                           color: #402528;
+                           background-color: #bd665d;
+                           border-radius:8px;
+                           height: 70px;
+                           width: 110px;
+                           position: absolute;
+                       }
+                       }
+                       @media (min-width: 320px){
+                           .boxtext5 {
+                               -ms-flex-preferred-size: 0;
+                               flex-basis: 0;
+                               -ms-flex-positive: 1;
+                               flex-grow: 1;
+                               max-width: 100%;
+                               margin-top: -26%;
+                               height: 41px;
+                               width: 116px;
+                               color: rgb(255, 255, 255);
+                               font-family: 'Sriracha', cursive;
+                               font-size: 3.8px;
+                               margin-left: 1%;
+                               margin-right: 1%;
+                               color: #021c46;
+                               background-color: #1879c8;
+                               text-align: justify;
+                               text-justify: inter-word;
+                               position: absolute;
+                               z-index: 5;
+                           }
+                         }
+                           @media (min-width: 360px){
+                             .boxtext5 {
+                                 -ms-flex-preferred-size: 0;
+                                 flex-basis: 0;
+                                 -ms-flex-positive: 1;
+                                 flex-grow: 1;
+                                 max-width: 100%;
+                                 margin-top: -26%;
+                               height: 50px;
+                               width: 128px;
+                               color: #021c46;
+                               background-color: #1879c8;
+                               margin-left: 1%;
+                                 margin-right: 1%;
+                                 font-family: 'Sriracha', cursive;
+                                 font-size: 4.2px;
+                                 text-align: justify;
+                                 text-justify: inter-word;
+                                 position: absolute;
+                             }
+                            }
+                             @media (min-width: 410px){
+                               .boxtext5 {
+                                   -ms-flex-preferred-size: 0;
+                                   flex-basis: 0;
+                                   -ms-flex-positive: 1;
+                                   flex-grow: 1;
+                                   max-width: 100%;
+                                   margin-top: -26%;
+                               height: 57px;
+                               width: 156px;
+                               color: #021c46;
+                               background-color: #1879c8;
+                                   font-family: 'Sriracha', cursive;
+                                   font-size: 5px;
+                                   
+                               margin-left: 1%;
+                                 margin-right: 1%;
+                                   text-align: justify;
+                                   text-justify: inter-word;
+                                   position: absolute;
+                               }
+                              }
+                               @media (min-width: 530px){
+                                 .boxtext5 {
+                                     -ms-flex-preferred-size: 0;
+                                     flex-basis: 0;
+                                     -ms-flex-positive: 1;
+                                     flex-grow: 1;
+                                     max-width: 100%;
+                                     margin-top: -26%;
+                               height: 79px;
+                               width: 218px;
+                               color: #021c46;
+                               background-color: #1879c8;
+                                     font-family: 'Sriracha', cursive;
+                                     font-size: 7px;
+                               margin-left: 1%;
+                                 margin-right: 1%;
+                                     text-align: justify;
+                                     text-justify: inter-word;
+                                     position: absolute;
+                                 }
+                                }
+                                 @media (min-width: 640px){
+                                   .boxtext5 {
+                                       -ms-flex-preferred-size: 0;
+                                       flex-basis: 0;
+                                       -ms-flex-positive: 1;
+                                       flex-grow: 1;
+                                       max-width: 100%;
+                                       margin-top: -26%;
+                               height: 94px;
+                               width: 249px;
+                               color: #021c46;
+                               background-color: #1879c8;
+                                       font-family: 'Sriracha', cursive;
+                                       font-size: 8px;
+                                       margin-left: 1%;
+                                       margin-right: 1%;
+                                       text-align: justify;
+                                       text-justify: inter-word;
+                                       position: absolute;
+                                   }
+                                  }
+                                   @media (min-width: 750px){
+                                     .boxtext5 {
+                                         -ms-flex-preferred-size: 0;
+                                         flex-basis: 0;
+                                         -ms-flex-positive: 1;
+                                         flex-grow: 1;
+                                         max-width: 100%;
+                                         margin-top: -26%;
+                               height: 109px;
+                               width: 300px;
+                               color: #021c46;
+                               background-color: #1879c8;
+                                         font-family: 'Sriracha', cursive;
+                                         font-size: 9.6px;
+                                         text-align: justify;
+                                         text-justify: inter-word;
+                                         position: absolute;
+                                     }
+                                    }
+                                     @media (min-width: 900px){
+                                       .boxtext5 {
+                                           -ms-flex-preferred-size: 0;
+                                           flex-basis: 0;
+                                           -ms-flex-positive: 1;
+                                           flex-grow: 1;
+                                           max-width: 100%;
+                                           margin-top: -26%;
+                               height: 142px;
+                               width: 373px;
+                               color: #021c46;
+                               background-color: #1879c8;
+                                           font-family: 'Sriracha', cursive;
+                                           font-size: 12px;
+                                       margin-left: 1%;
+                                       margin-right: 1%;
+                                           text-align: justify;
+                                           text-justify: inter-word;
+                                           position: absolute;
+                                       }
+                                      }
+                                       @media (min-width: 1080px){
+                                         .boxtext5 {
+                                             -ms-flex-preferred-size: 0;
+                                             flex-basis: 0;
+                                             -ms-flex-positive: 1;
+                                             flex-grow: 1;
+                                             max-width: 100%;
+                                             margin-top: -26%;
+                               height: 172px;
+                               width: 462px;
+                               color: #021c46;
+                               background-color: #1879c8;
+                                             font-family: 'Sriracha', cursive;
+                                             font-size: 14.7px;
+                                             margin-left: 1%;
+                                            margin-right: 1%;
+                                             text-align: justify;
+                                             text-justify: inter-word;
+                                             position: absolute;
+                                         }
+                                        }
+                                         @media (min-width: 1366px){
+                                           .boxtext5{
+                                               -ms-flex-preferred-size: 0;
+                                               flex-basis: 0;
+                                               -ms-flex-positive: 1;
+                                               flex-grow: 1;
+                                               max-width: 100%;
+                                               margin-top: -26%;
+                                               height: 197px;
+                                               width: 529px;
+                                               color: #021c46;
+                                               background-color: #1879c8;
+                                               font-family: 'Sriracha', cursive;
+                                               font-size: 17px;
+                                               margin-left: 2%;
+                                               margin-right: 2%;
+                                               text-align: justify;
+                                               text-justify: inter-word;
+                                               position: absolute;
+                                           }
+                                          }
+                                           @media (min-width: 1540px){
+                                             .boxtext5 {
+                                                 -ms-flex-preferred-size: 0;
+                                                 flex-basis: 0;
+                                                 -ms-flex-positive: 1;
+                                                 flex-grow: 1;
+                                                 max-width: 100%;
+                                                 margin-top: -26%;
+                                               height: 229px;
+                                               width: 608px;
+                                               color: #021c46;
+                                               background-color: #1879c8;
+                                                 font-family: 'Sriracha', cursive;
+                                                 font-size: 19.7px;
+                                               margin-left: 1%;
+                                               margin-right: 1%;
+                                                 text-align: justify;
+                                                 text-justify: inter-word;
+                                                 position: absolute;
+                                             }
+                                            }
+                                             @media (min-width: 1790px){
+                                               .boxtext5 {
+                                                   -ms-flex-preferred-size: 0;
+                                                   flex-basis: 0;
+                                                   -ms-flex-positive: 1;
+                                                   flex-grow: 1;
+                                                   max-width: 100%;
+                                                   margin-top: -26%;
+                                               height: 269px;
+                                               width: 718px;
+                                               color: #021c46;
+                                               background-color: #1879c8;
+                                                   font-family: 'Sriracha', cursive;
+                                                   font-size: 23px;
+                                               margin-left: 1%;
+                                               margin-right: 1%;
+                                                   text-align: justify;
+                                                   text-justify: inter-word;
+                                                   position: absolute;
+                                               }
+                                              }
                        @media (max-width: 2040px){
                         .boxtext2{
                            -ms-flex-preferred-size: 0;
@@ -720,12 +1071,12 @@ h1{
                            -ms-flex-positive: 1;
                            flex-grow: 1;
                            max-width: 100%;
-                           margin-top: -70%;
+                           margin-top: -63.4%;
                            margin-left: 1%;
                            font-family: 'Sriracha', cursive;
                            font-size: 3.8px;
-                           color: #402528;
-                           background-color: #bd665d;
+                           color: #29d3ed;
+                           
                            border-radius:8px;
                            height: 35px;
                            width: 260px;
@@ -742,16 +1093,14 @@ h1{
                             -ms-flex-positive: 1;
                             flex-grow: 1;
                             max-width: 100%;
-                            margin-top: -70%;
+                            margin-top: -63.4%;
                             height: 40px;
                             width: 275px;
-                            color: #7a3941;
+                            color: #29d3ed;
                             font-family: 'Sriracha', cursive;
                             font-size: 4.2px;
                             margin-left: 1.8%;
                             margin-right: 1.8%;
-                            color: #402528;
-                            background-color: #bd665d;
                             text-align: justify;
                             text-justify: inter-word;
                             position: absolute;
@@ -765,16 +1114,14 @@ h1{
                             -ms-flex-positive: 1;
                             flex-grow: 1;
                             max-width: 100%;
-                            margin-top: -70%;
+                            margin-top: -63.4%;
                             height: 40px;
                             width: 310px;
-                            color: #7a3941;
+                            color: #29d3ed;
                             font-family: 'Sriracha', cursive;
                             font-size: 4.4px;
                             margin-left: 2%;
                             margin-right: 2%;
-                            color: #402528;
-                            background-color: #bd665d;
                             text-align: justify;
                             text-justify: inter-word;
                             position: absolute;
@@ -788,16 +1135,14 @@ h1{
                             -ms-flex-positive: 1;
                             flex-grow: 1;
                             max-width: 100%;
-                            margin-top: -70%;
+                            margin-top: -63.4%;
                             height: 50px;
                             width: 360px;
-                            color: #7a3941;
+                            color: #29d3ed;
                             font-family: 'Sriracha', cursive;
                             font-size: 5px;
                             margin-left: 2%;
-                            margin-right: 2%;
-                            color: #402528;
-                            background-color: #bd665d;
+                            margin-right: 2%; 
                             text-align: justify;
                             text-justify: inter-word;
                             position: absolute;
@@ -812,16 +1157,14 @@ h1{
                             -ms-flex-positive: 1;
                             flex-grow: 1;
                             max-width: 100%;
-                            margin-top: -70%;
+                            margin-top: -63.4%;
                             height: 70px;
                             width: 470px;
-                            color: #7a3941;
+                            color: #29d3ed;
                             font-family: 'Sriracha', cursive;
                             font-size: 7px;
                             margin-left: 2%;
                             margin-right: 2%;
-                            color: #402528;
-                            background-color: #bd665d;
                             text-align: justify;
                             text-justify: inter-word;
                             position: absolute;
@@ -835,16 +1178,14 @@ h1{
                             -ms-flex-positive: 1;
                             flex-grow: 1;
                             max-width: 100%;
-                            margin-top: -70%;
+                            margin-top: -63.4%;
                             height: 90px;
                             width: 570px;
-                            color: #7a3941;
+                            color: #29d3ed;
                             font-family: 'Sriracha', cursive;
                             font-size: 8px;
                             margin-left: 2%;
                             margin-right: 2%;
-                            color: #402528;
-                            background-color: #bd665d;
                             text-align: justify;
                             text-justify: inter-word;
                             position: absolute;
@@ -857,16 +1198,14 @@ h1{
                             -ms-flex-positive: 1;
                             flex-grow: 1;
                             max-width: 100%;
-                            margin-top: -70%;
+                            margin-top: -63.4%;
                             height: 100px;
                             width: 680px;
-                            color: #7a3941;
+                            color: #29d3ed;
                             font-family: 'Sriracha', cursive;
                             font-size: 9.6px;
                             margin-left: 2%;
                             margin-right: 2%;
-                            color: #402528;
-                            background-color: #bd665d;
                             text-align: justify;
                             text-justify: inter-word;
                             position: absolute;
@@ -880,16 +1219,14 @@ h1{
                             -ms-flex-positive: 1;
                             flex-grow: 1;
                             max-width: 100%;
-                            margin-top: -70%;
+                            margin-top: -63.4%;
                             height: 120px;
                             width: 800px;
-                            color: #7a3941;
+                            color: #29d3ed;
                             font-family: 'Sriracha', cursive;
                             font-size: 12px;
                             margin-left: 2%;
                             margin-right: 2%;
-                            color: #402528;
-                            background-color: #bd665d;
                             text-align: justify;
                             text-justify: inter-word;
                             position: absolute;
@@ -902,16 +1239,14 @@ h1{
                             -ms-flex-positive: 1;
                             flex-grow: 1;
                             max-width: 100%;
-                            margin-top: -70%;
+                            margin-top: -63.4%;
                             height: 150px;
                             width: 980px;
-                            color: #7a3941;
+                            color: #29d3ed;
                             font-family: 'Sriracha', cursive;
                             font-size: 14.7px;
                             margin-left: 2%;
                             margin-right: 2%;
-                            color: #402528;
-                            background-color: #bd665d;
                             text-align: justify;
                             text-justify: inter-word;
                             position: absolute;
@@ -925,16 +1260,14 @@ h1{
                             -ms-flex-positive: 1;
                             flex-grow: 1;
                             max-width: 100%;
-                            margin-top: -70%;
+                            margin-top: -63.4%;
                             height: 195px;
                             width: 1250px;
-                            color: #7a3941;
+                            color: #29d3ed;
                             font-family: 'Sriracha', cursive;
                             font-size: 17.5px;
                             margin-left: 2%;
                             margin-right: 2%;
-                            color: #402528;
-                            background-color: #bd665d;
                             text-align: justify;
                             text-justify: inter-word;
                             position: absolute;
@@ -948,16 +1281,14 @@ h1{
                             -ms-flex-positive: 1;
                             flex-grow: 1;
                             max-width: 100%;
-                            margin-top: -70%;
+                            margin-top: -63.4%;
                             height: 210px;
                             width: 1440px;
-                            color: #7a3941;
+                            color: #29d3ed;
                             font-family: 'Sriracha', cursive;
                             font-size: 19.7px;
                             margin-left: 2%;
                             margin-right: 2%;
-                            color: #402528;
-                            background-color: #bd665d;
                             text-align: justify;
                             text-justify: inter-word;
                             position: absolute;
@@ -971,16 +1302,14 @@ h1{
                             -ms-flex-positive: 1;
                             flex-grow: 1;
                             max-width: 100%;
-                            margin-top: -70%;
+                            margin-top: -63.4%;
                             height: 260px;
                             width: 1790px;
-                            color: #7a3941;
+                            color: #29d3ed;
                             font-family: 'Sriracha', cursive;
                             font-size: 23px;
                             margin-left: 2%;
                             margin-right: 2%;
-                            color: #402528;
-                            background-color: #bd665d;
                             text-align: justify;
                             text-justify: inter-word;
                             position: absolute;
@@ -1278,13 +1607,18 @@ h1{
                             flex-grow: 1;
                             max-width: 100%;
                             margin-top: -58%;
-                            height: 40px;
-                            width: 120px;
-                            color: #d14f1e;
+                            margin-left: 47%;
+                            margin-right: 47%;
+                            height: 55px;
+                            width: 145px;
+                            padding-left: 2%;
+                            padding-right: 2%;
+                            padding-top: 1%;
+                            color: #075b19;
+                            background-color: #87cba6;
                             font-family: 'Sriracha', cursive;
                             font-size: 4.2px;
-                            margin-left: 59%;
-                            margin-right: 59%;
+                            
                       
                             text-align: justify;
                             text-justify: inter-word;
@@ -1300,13 +1634,17 @@ h1{
                             flex-grow: 1;
                             max-width: 100%;
                             margin-top: -58%;
-                            height: 40px;
-                            width: 131px;
-                            color: #d14f1e;
+                            margin-left: 47%;
+                            margin-right: 47%;
+                            height: 55px;
+                            width: 155px;
+                            padding-left: 2%;
+                            padding-right: 2%;
+                            padding-top: 1%;
+                            color: #075b19;
+                            background-color: #87cba6;
                             font-family: 'Sriracha', cursive;
                             font-size: 4.4px;
-                            margin-left: 59%;
-                            margin-right: 59%;
                       
                             text-align: justify;
                             text-justify: inter-word;
@@ -1322,13 +1660,17 @@ h1{
                             flex-grow: 1;
                             max-width: 100%;
                             margin-top: -58%;
-                            height: 50px;
-                            width: 152px;
-                            color: #d14f1e;
+                            margin-left: 47%;
+                            margin-right: 47%;
+                            height: 63px;
+                            width: 185px;
+                            padding-left: 2%;
+                            padding-right: 2%;
+                            padding-top: 1%;
+                            color: #075b19;
+                            background-color: #87cba6;
                             font-family: 'Sriracha', cursive;
                             font-size: 5.2px;
-                            margin-left: 59%;
-                            margin-right: 59%;
                       
                             text-align: justify;
                             text-justify: inter-word;
@@ -1345,13 +1687,17 @@ h1{
                             flex-grow: 1;
                             max-width: 100%;
                             margin-top: -58%;
-                            height: 70px;
-                            width: 200px;
-                            color: #d14f1e;
+                            margin-left: 47%;
+                            margin-right: 47%;
+                            height: 87px;
+                            width: 251px;
+                            padding-left: 2%;
+                            padding-right: 2%;
+                            padding-top: 1%;
+                            color: #075b19;
+                            background-color: #87cba6;
                             font-family: 'Sriracha', cursive;
                             font-size: 7px;
-                            margin-left: 59%;
-                            margin-right: 59%;
                       
                             text-align: justify;
                             text-justify: inter-word;
@@ -1367,13 +1713,17 @@ h1{
                             flex-grow: 1;
                             max-width: 100%;
                             margin-top: -58%;
-                            height: 90px;
-                            width: 240px;
-                            color: #d14f1e;
+                            margin-left: 47%;
+                            margin-right: 47%;
+                            height: 101px;
+                            width: 298px;
+                            padding-left: 2%;
+                            padding-right: 2%;
+                            padding-top: 1%;
+                            color: #075b19;
+                            background-color: #87cba6;
                             font-family: 'Sriracha', cursive;
                             font-size: 8.3px;
-                            margin-left: 59%;
-                            margin-right: 59%;
                       
                             text-align: justify;
                             text-justify: inter-word;
@@ -1386,16 +1736,18 @@ h1{
                             flex-basis: 0;
                             -ms-flex-positive: 1;
                             flex-grow: 1;
-                            max-width: 100%;
                             margin-top: -58%;
-                            height: 100px;
-                            width: 285px;
-                            color: #d14f1e;
+                            margin-left: 47%;
+                            margin-right: 47%;
+                            height: 123px;
+                            width: 349px;
+                            padding-left: 2%;
+                            padding-right: 2%;
+                            padding-top: 1%;
+                            color: #075b19;
+                            background-color: #87cba6;
                             font-family: 'Sriracha', cursive;
                             font-size: 9.8px;
-                            margin-left: 59%;
-                            margin-right: 59%;
-                      
                             text-align: justify;
                             text-justify: inter-word;
                             position: absolute;
@@ -1410,13 +1762,17 @@ h1{
                             flex-grow: 1;
                             max-width: 100%;
                             margin-top: -58%;
-                            height: 120px;
-                            width: 350px;
-                            color: #d14f1e;
+                            margin-left: 47%;
+                            margin-right: 47%;
+                            height: 150px;
+                            width: 420px;
+                            padding-left: 2%;
+                            padding-right: 2%;
+                            padding-top: 1%;
+                            color: #075b19;
+                            background-color: #87cba6;
                             font-family: 'Sriracha', cursive;
                             font-size: 12px;
-                            margin-left: 59%;
-                            margin-right: 59%;
                       
                             text-align: justify;
                             text-justify: inter-word;
@@ -1431,13 +1787,17 @@ h1{
                             flex-grow: 1;
                             max-width: 100%;
                             margin-top: -58%;
-                            height: 150px;
-                            width: 427px;
-                            color: #d14f1e;
+                            margin-left: 47%;
+                            margin-right: 47%;
+                            height: 185px;
+                            width: 516px;
+                            padding-left: 2%;
+                            padding-right: 2%;
+                            padding-top: 1%;
+                            color: #075b19;
+                            background-color: #87cba6;
                             font-family: 'Sriracha', cursive;
                             font-size: 14.8px;
-                            margin-left: 59%;
-                            margin-right: 59%;
                       
                             text-align: justify;
                             text-justify: inter-word;
@@ -1453,14 +1813,17 @@ h1{
                             flex-grow: 1;
                             max-width: 100%;
                             margin-top: -58%;
-                            height: 185px;
-                            width: 500px;
-                            color: #d14f1e;
+                            margin-left: 47%;
+                            margin-right: 47%;
+                            height: 220px;
+                            width: 614px;
+                            padding-left: 2%;
+                            padding-right: 2%;
+                            padding-top: 1%;
+                            color: #075b19;
+                            background-color: #87cba6;
                             font-family: 'Sriracha', cursive;
                             font-size: 17.5px;
-                            margin-left: 59%;
-                            margin-right: 59%;
-                      
                             text-align: justify;
                             text-justify: inter-word;
                             position: absolute;
@@ -1475,14 +1838,17 @@ h1{
                             flex-grow: 1;
                             max-width: 100%;
                             margin-top: -58%;
-                            height: 210px;
-                            width: 570px;
-                            color: #d14f1e;
+                            margin-left: 47%;
+                            margin-right: 47%;
+                            height: 247px;
+                            width: 692px;
+                            padding-left: 2%;
+                            padding-right: 2%;
+                            padding-top: 1%;
+                            color: #075b19;
+                            background-color: #87cba6;
                             font-family: 'Sriracha', cursive;
                             font-size: 19.7px;
-                            margin-left: 59%;
-                            margin-right: 59%;
-                      
                             text-align: justify;
                             text-justify: inter-word;
                             position: absolute;
@@ -1497,13 +1863,17 @@ h1{
                             flex-grow: 1;
                             max-width: 100%;
                             margin-top: -58%;
-                            height: 240px;
-                            width: 690px;
-                            color: #d14f1e;
+                            margin-left: 47%;
+                            margin-right: 47%;
+                            height: 298px;
+                            width: 822px;
+                            padding-left: 2%;
+                            padding-right: 2%;
+                            padding-top: 1%;
+                            color: #075b19;
+                            background-color: #87cba6;
                             font-family: 'Sriracha', cursive;
                             font-size: 23.4px;
-                            margin-left: 59%;
-                            margin-right: 59%;
                             text-align: justify;
                             text-justify: inter-word;
                             position: absolute;
@@ -1598,7 +1968,7 @@ h1{
                         padding-top: 87px;
                         box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
                         z-index: 11;
-                        margin-top: -50%;
+                        margin-top: -57.5%;
                         margin-left: 20%;
                     }
                     .slider label img {
@@ -1632,7 +2002,7 @@ h1{
                         padding-top: 87px;
                         box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
                         z-index: 11;
-                        margin-top: -50%;
+                        margin-top: -57.5%;
                         margin-left: 24%;
                     }
                     .slider label img {
@@ -1666,7 +2036,7 @@ h1{
                         padding-top: 102px;
                         box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
                         z-index: 11;
-                        margin-top: -50%;
+                        margin-top: -57.5%;
                         margin-left: 22%;
                     }
                     .slider label img {
@@ -1701,7 +2071,7 @@ h1{
                         padding-top: 142px;
                         box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
                         z-index: 11;
-                        margin-top: -50%;
+                        margin-top: -57.5%;
                         margin-left: 22%;
                     }
                     .slider label img {
@@ -1734,7 +2104,7 @@ h1{
                         padding-top: 210px;
                         box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
                         z-index: 11;
-                        margin-top: -50%;
+                        margin-top: -57.5%;
                         margin-left: 22%;
                     }
                     .slider label img {
@@ -1767,7 +2137,7 @@ h1{
                         padding-top: 264px;
                         box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
                         z-index: 11;
-                        margin-top: -50%;
+                        margin-top: -57.5%;
                         margin-left: 20%;
                     }
                     .slider label img {
@@ -1800,7 +2170,7 @@ h1{
                         padding-top: 320px;
                         box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
                         z-index: 11;
-                        margin-top: -50%;
+                        margin-top: -57.5%;
                         margin-left: 19%;
                     }
                     .slider label img {
@@ -1833,7 +2203,7 @@ h1{
                         padding-top: 404px;
                         box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
                         z-index: 11;
-                        margin-top: -50%;
+                        margin-top: -57.5%;
                         margin-left: 18.7%;
                     }
                     .slider label img {
@@ -1867,7 +2237,7 @@ h1{
                         padding-top: 464px;
                         box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
                         z-index: 11;
-                        margin-top: -50%;
+                        margin-top: -57.5%;
                         margin-left: 18.7%;
                     }
                     .slider label img {
@@ -1901,7 +2271,7 @@ h1{
                         padding-top: 584px;
                         box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
                         z-index: 11;
-                        margin-top: -50%;
+                        margin-top: -57.5%;
                         margin-left: 18.7%;
                     }
                     .slider label img {
