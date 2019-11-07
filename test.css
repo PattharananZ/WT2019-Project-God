@@ -1,0 +1,19 @@
+.content-text{
+    font-size: 3vh;
+    margin-top: -57%;
+    color:white;
+  }
+
+@media (max-width: 575px){ smartphone
+    .content-text{
+        font-size:10px;
+    }
+}
+
+@media (max-width: 768px){ tablet
+     .content-text{
+        font-size:10px;
+    }
+}
+
+
