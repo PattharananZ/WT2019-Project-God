@@ -1,0 +1,396 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Itim', cursive;
+    background-size: cover!important;
+  }
+
+  .page1 {
+    margin: 0px auto;
+    position: relative;
+    margin-top: 0px;
+    width: 100%;
+    height: 100%;
+}
+  .img-fluid {
+    border: 0px;
+    padding: 0%;
+    margin-top: -1px;
+    width: 100%;
+    height: 100%;
+  }
+  .wrapper {
+    width: 430px;
+    margin: 0 auto;
+    height: 100%;
+    padding-top: 0px;
+    z-index: 5;
+    position: absolute;
+    margin-top: -63%;
+  }
+  
+  #quiz {
+    background-color: #34495E;
+    padding-bottom: 60px;
+    width: 100%;
+    height: 100%;
+    border-radius: 2%;
+    color: #fff;
+    text-align: center;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  }
+  
+  #quiz > h1 {
+    text-align: center;
+    padding-top: 25px;
+    font-size: 20px;
+  }
+  
+  .questions {
+    font-size: 28px;
+    font-weight: 700;
+    font-style: italic;
+    border-top: 1px solid #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
+    padding: 20px;
+  }
+  
+  .answers div {
+    padding: 10px 0 0 0;
+    font-size: 16px;
+  }
+  
+  .answers div:hover {
+    cursor: pointer;
+    color: #FBCB43;
+  }
+  
+  .answers {
+    padding: 0px 0 0px 0px;
+    
+  }
+  .checkAnswers{
+    margin-top: -10%;
+  }
+  
+  .answers div {
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 15px;
+    border-top: 1px solid grey;
+  }
+  
+  .answers div:first-child {
+    border: none;
+  }
+  
+  .checker {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+  }
+  
+  .correct, .false {
+    background-color: #109D59;
+    width: 16%;
+    height: 100%;
+    line-height: 14px;
+    font-size: 6;
+    float: left;
+    margin-left: 2px;
+    margin-top: 2px;
+    font-size: 55%;
+  }
+  
+  .false {
+    background-color: #DC4437;
+  }
+
+  @media (min-width: 320px){
+    .wrapper {
+        margin-top: -142%;
+    width: 50%;
+    height: 60%;
+    margin-left: 23%;
+    }
+    #quiz > h1 {
+        font-size: 7px;
+    }
+    .questions {
+        font-size: 7px;
+     }
+     .answers div {
+        font-size: 5px;
+    }
+    h3{
+        font-size: 7px;
+        margin-top: 14%;
+    }
+     }
+     @media (min-width: 360px){
+        .wrapper {
+            margin-top: -50%;
+        width: 50%;
+        height: 60%;
+        margin-left: 23%;
+        }
+        #quiz > h1 {
+            font-size: 8px;
+        }
+        .questions {
+            font-size: 8px;
+         }
+         .answers div {
+            font-size: 6px;
+        }
+        h3{
+            font-size: 8px;
+            margin-top: 14%;
+        }
+         }
+         @media (min-width: 375px){
+            .wrapper {
+                margin-top: -145%;
+            width: 50%;
+            height: 60%;
+            margin-left: 23%;
+            }
+            #quiz > h1 {
+                font-size: 9px;
+            }
+            .questions {
+                font-size: 9px;
+             }
+             .answers div {
+                font-size: 7px;
+            }
+            h3{
+                font-size: 9px;
+                margin-top: 14%;
+            }
+             }
+
+         @media (min-width: 410px){
+            .wrapper {
+                margin-top: -165%;
+            width: 50%;
+            height: 60%;
+            margin-left: 23%;
+            }
+            #quiz > h1 {
+                font-size: 9px;
+            }
+            .questions {
+                font-size: 9px;
+             }
+             .answers div {
+                font-size: 7px;
+            }
+            h3{
+                font-size: 9px;
+                margin-top: 14%;
+            }
+             }
+
+             @media (min-width: 530px){
+                .wrapper {
+                    margin-top: -50%;
+                width: 50%;
+                height: 60%;
+                margin-left: 23%;
+                }
+                #quiz > h1 {
+                    font-size: 10px;
+                }
+                .questions {
+                    font-size: 10px;
+                 }
+                 .answers div {
+                    font-size: 8px;
+                }
+                h3{
+                    font-size: 10px;
+                    margin-top: 14%;
+                }
+                 }
+
+                 @media (min-width: 640px){
+                    .wrapper {
+                        margin-top: -50%;
+                    width: 50%;
+                    height: 60%;
+                    margin-left: 23%;
+                    }
+                    #quiz > h1 {
+                        font-size: 11px;
+                    }
+                    .questions {
+                        font-size: 11px;
+                     }
+                     .answers div {
+                        font-size: 9px;
+                    }
+                    h3{
+                        font-size: 11px;
+                        margin-top: 14%;
+                    }
+                    .correct, .false {
+                        line-height: 20px;
+                     }
+                    }
+
+                    @media (min-width: 768px){
+                        .wrapper {
+                            margin-top: -108%;
+                        width: 50%;
+                        height: 60%;
+                        margin-left: 23%;
+                        }
+                        #quiz > h1 {
+                            font-size: 14.5px;
+                        }
+                        .questions {
+                            font-size: 12.5px;
+                         }
+                         .answers div {
+                            font-size: 10.5px;
+                        }
+                        h3{
+                            font-size: 12.5px;
+                            margin-top: 14%;
+                        }
+                        .correct, .false {
+                            line-height: 20px;
+                         }
+                        }
+
+                        @media (min-width: 900px){
+                            .wrapper {
+                                margin-top: -100%;
+                            width: 50%;
+                            height: 60%;
+                            margin-left: 23%;
+                            }
+                            #quiz > h1 {
+                                font-size: 18.5px;
+                            }
+                            .questions {
+                                font-size: 14.5px;
+                             }
+                             .answers div {
+                                font-size: 12.5px;
+                            }
+                            h3{
+                                font-size: 14.5px;
+                                margin-top: 14%;
+                            }
+                            .correct, .false {
+                                line-height: 38px;
+                             }
+                            }
+
+                            @media (min-width: 1080px){
+                                .wrapper {
+                                    margin-top: -50%;
+                                width: 50%;
+                                height: 60%;
+                                margin-left: 23%;
+                                }
+                                #quiz > h1 {
+                                    font-size: 22.5px;
+                                }
+                                .questions {
+                                    font-size: 17px;
+                                 }
+                                 .answers div {
+                                    font-size: 15px;
+                                }
+                                h3{
+                                    font-size: 17px;
+                                    margin-top: 14%;
+                                }
+                                .correct, .false {
+                                    line-height: 50px;
+                                 }
+                                }
+                                @media (min-width: 1366px){
+                                    .wrapper {
+                                        margin-top: -50%;
+                                    width: 50%;
+                                    height: 60%;
+                                    margin-left: 23%;
+                                    }
+                                    #quiz > h1 {
+                                        font-size: 26.5px;
+                                    }
+                                    .questions {
+                                        font-size: 20.4px;
+                                     }
+                                     .answers div {
+                                        font-size: 18.5px;
+                                    }
+                                    h3{
+                                        font-size: 20.5px;
+                                        margin-top: 14%;
+                                    }
+                                    .correct, .false {
+                                        line-height: 50px;
+                                        font-size: 28px;
+                                     }
+                                    }
+
+                                    @media (min-width: 1540px){
+                                        .wrapper {
+                                            margin-top: -50%;
+                                        width: 50%;
+                                        height: 60%;
+                                        margin-left: 23%;
+                                        }
+                                        #quiz > h1 {
+                                            font-size: 32.5px;
+                                        }
+                                        .questions {
+                                            font-size: 25.4px;
+                                         }
+                                         .answers div {
+                                            font-size: 21.5px;
+                                        }
+                                        h3{
+                                            font-size: 25.5px;
+                                            margin-top: 14%;
+                                        }
+                                        .correct, .false {
+                                            line-height: 80px;
+                                            font-size: 50px;
+                                         }
+                                        }
+                                        @media (min-width: 1920px){
+                                            .wrapper {
+                                                margin-top: -50%;
+                                            width: 50%;
+                                            height: 60%;
+                                            margin-left: 23%;
+                                            }
+                                            #quiz > h1 {
+                                                font-size: 37.5px;
+                                            }
+                                            .questions {
+                                                font-size: 31.4px;
+                                             }
+                                             .answers div {
+                                                font-size: 27.5px;
+                                            }
+                                            h3{
+                                                font-size: 31.5px;
+                                                margin-top: 14%;
+                                            }
+                                            .correct, .false {
+                                                line-height: 90px;
+                                                font-size: 45px;
+                                             }
+                                            }
+            
+        
