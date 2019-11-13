@@ -1,11 +1,13 @@
 html {
     scroll-behavior: smooth;
     font-size: 62.5%;
+    font-family: 'Chakra Petch', sans-serif;
 }
 
 body {
     background-size: cover!important;
     font-size: 1.9em;
+    font-family: 'Chakra Petch', sans-serif;
 }
 
 h1 {
@@ -266,7 +268,7 @@ b {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -57.4%;
+        margin-top: -55.5%;
         height: 70%;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -285,7 +287,7 @@ b {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -57.4%;
+        margin-top: -55%;
         height: 70%;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -304,7 +306,7 @@ b {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -57.4%;
+        margin-top: -55.8%;
         height: 70%;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -323,7 +325,7 @@ b {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -57.4%;
+        margin-top: -56.2%;
         height: 70%;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -342,7 +344,7 @@ b {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -57.4%;
+        margin-top: -56%;
         height: 70%;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -361,7 +363,7 @@ b {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -57.4%;
+        margin-top: -56%;
         height: 70%;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -380,7 +382,7 @@ b {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -57.4%;
+        margin-top: -56.3%;
         height: 70%;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -399,7 +401,7 @@ b {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -57.4%;
+        margin-top: -56.5%;
         height: 70%;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -418,7 +420,7 @@ b {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -57.8%;
+        margin-top: -56%;
         height: 70%;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -437,7 +439,7 @@ b {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -57.8%;
+        margin-top: -56.2%;
         height: 70%;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -456,7 +458,7 @@ b {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -57.8%;
+        margin-top: -55.8%;
         height: 70%;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -509,7 +511,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -40%;
-        height: 70px;
+        height: 66px;
         width: 110px;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -532,7 +534,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -40.5%;
-        height: 86px;
+        height: 67px;
         width: 120px;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -555,7 +557,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -41%;
-        height: 96px;
+        height: 78px;
         width: 150px;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -601,7 +603,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -41%;
-        height: 160px;
+        height: 113px;
         width: 240px;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -624,7 +626,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -41%;
-        height: 184px;
+        height: 158px;
         width: 300px;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -647,7 +649,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -41%;
-        height: 235px;
+        height: 211px;
         width: 352px;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -670,7 +672,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -41%;
-        height: 300px;
+        height: 244px;
         width: 440px;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -693,7 +695,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -41%;
-        height: 340px;
+        height: 300px;
         width: 499px;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -716,7 +718,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -41%;
-        height: 410px;
+        height: 353px;
         width: 560px;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -739,7 +741,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -41%;
-        height: 450px;
+        height: 424px;
         width: 675px;
         color: rgb(255, 255, 255);
         font-family: 'Chakra Petch', sans-serif;
@@ -784,7 +786,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -70%;
-        height: 40px;
+        height: 39px;
         width: 275px;
         color: #7a3941;
         font-family: 'Chakra Petch', sans-serif;
@@ -807,7 +809,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -70%;
-        height: 40px;
+        height: 42px;
         width: 310px;
         color: #7a3941;
         font-family: 'Chakra Petch', sans-serif;
@@ -830,7 +832,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -70%;
-        height: 50px;
+        height: 48px;
         width: 360px;
         color: #7a3941;
         font-family: 'Chakra Petch', sans-serif;
@@ -853,7 +855,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -70%;
-        height: 70px;
+        height: 67px;
         width: 470px;
         color: #7a3941;
         font-family: 'Chakra Petch', sans-serif;
@@ -876,7 +878,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -70%;
-        height: 90px;
+        height: 82px;
         width: 570px;
         color: #7a3941;
         font-family: 'Chakra Petch', sans-serif;
@@ -899,7 +901,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -70%;
-        height: 100px;
+        height: 98px;
         width: 680px;
         color: #7a3941;
         font-family: 'Chakra Petch', sans-serif;
@@ -922,7 +924,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -70%;
-        height: 120px;
+        height: 122px;
         width: 800px;
         color: #7a3941;
         font-family: 'Chakra Petch', sans-serif;
@@ -945,7 +947,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -70%;
-        height: 150px;
+        height: 145px;
         width: 980px;
         color: #7a3941;
         font-family: 'Chakra Petch', sans-serif;
@@ -968,7 +970,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -70%;
-        height: 195px;
+        height: 180px;
         width: 1250px;
         color: #7a3941;
         font-family: 'Chakra Petch', sans-serif;
@@ -991,7 +993,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -70%;
-        height: 210px;
+        height: 200px;
         width: 1440px;
         color: #7a3941;
         font-family: 'Chakra Petch', sans-serif;
@@ -1015,7 +1017,7 @@ p {
         flex-grow: 1;
         max-width: 100%;
         margin-top: -70%;
-        height: 260px;
+        height: 240px;
         width: 1790px;
         color: #7a3941;
         font-family: 'Chakra Petch', sans-serif;
@@ -1058,7 +1060,7 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -70%;
+        margin-top: -68.5%;
         height: 40px;
         width: 120px;
         color: #d14f1e;
@@ -1079,7 +1081,7 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -70%;
+        margin-top: -67.5%;
         height: 40px;
         width: 131px;
         color: #d14f1e;
@@ -1100,9 +1102,9 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -70%;
+        margin-top: -68.5%;
         height: 50px;
-        width: 152px;
+        width: 150px;
         color: #d14f1e;
         font-family: 'Chakra Petch', sans-serif;
         font-size: 5.2px;
@@ -1121,9 +1123,9 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -70%;
+        margin-top: -69%;
         height: 70px;
-        width: 200px;
+        width: 194px;
         color: #d14f1e;
         font-family: 'Chakra Petch', sans-serif;
         font-size: 7px;
@@ -1142,9 +1144,9 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -70%;
+        margin-top: -68.5%;
         height: 90px;
-        width: 240px;
+        width: 232px;
         color: #d14f1e;
         font-family: 'Chakra Petch', sans-serif;
         font-size: 8.3px;
@@ -1163,9 +1165,9 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -70%;
+        margin-top: -69%;
         height: 100px;
-        width: 285px;
+        width: 274px;
         color: #d14f1e;
         font-family: 'Chakra Petch', sans-serif;
         font-size: 9.8px;
@@ -1184,9 +1186,9 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -70%;
+        margin-top: -69%;
         height: 120px;
-        width: 350px;
+        width: 326px;
         color: #d14f1e;
         font-family: 'Chakra Petch', sans-serif;
         font-size: 12px;
@@ -1205,9 +1207,9 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -70%;
+        margin-top: -69%;
         height: 150px;
-        width: 427px;
+        width: 397px;
         color: #d14f1e;
         font-family: 'Chakra Petch', sans-serif;
         font-size: 14.8px;
@@ -1226,7 +1228,7 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -70%;
+        margin-top: -68.5%;
         height: 185px;
         width: 500px;
         color: #d14f1e;
@@ -1247,7 +1249,7 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -70%;
+        margin-top: -69%;
         height: 210px;
         width: 570px;
         color: #d14f1e;
@@ -1268,9 +1270,9 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -70%;
+        margin-top: -68.5%;
         height: 240px;
-        width: 690px;
+        width: 680px;
         color: #d14f1e;
         font-family: 'Chakra Petch', sans-serif;
         font-size: 23.4px;
@@ -1311,7 +1313,7 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -58%;
+        margin-top: -55.7%;
         height: 40px;
         width: 120px;
         color: #d14f1e;
@@ -1332,7 +1334,7 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -58%;
+        margin-top: -55.8%;
         height: 40px;
         width: 131px;
         color: #d14f1e;
@@ -1353,7 +1355,7 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -58%;
+        margin-top: -55.7%;
         height: 50px;
         width: 152px;
         color: #d14f1e;
@@ -1374,7 +1376,7 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -58%;
+        margin-top: -56.5%;
         height: 70px;
         width: 200px;
         color: #d14f1e;
@@ -1395,7 +1397,7 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -58%;
+        margin-top: -56.5%;
         height: 90px;
         width: 240px;
         color: #d14f1e;
@@ -1416,7 +1418,7 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -58%;
+        margin-top: -56%;
         height: 100px;
         width: 285px;
         color: #d14f1e;
@@ -1437,7 +1439,7 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -58%;
+        margin-top: -56.3%;
         height: 120px;
         width: 350px;
         color: #d14f1e;
@@ -1458,7 +1460,7 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -58%;
+        margin-top: -56.5%;
         height: 150px;
         width: 427px;
         color: #d14f1e;
@@ -1479,7 +1481,7 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -58%;
+        margin-top: -56.3%;
         height: 185px;
         width: 500px;
         color: #d14f1e;
@@ -1500,7 +1502,7 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -58%;
+        margin-top: -56.3%;
         height: 210px;
         width: 570px;
         color: #d14f1e;
@@ -1521,7 +1523,7 @@ p {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%;
-        margin-top: -58%;
+        margin-top: -55.7%;
         height: 240px;
         width: 690px;
         color: #d14f1e;

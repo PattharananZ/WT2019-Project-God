@@ -450,7 +450,7 @@ h1{
     margin-left: 2.4%;
     margin-right: 2.4%;
     padding: 2.4%;
-    text-indent: 
+    text-indent: 1rem;
  
 
   }
@@ -841,7 +841,7 @@ h1{
                                flex-grow: 1;
                                max-width: 100%;
                                margin-top: -26%;
-                               height: 41px;
+                               height: 54px;
                                width: 116px;
                                color: rgb(255, 255, 255);
                                font-family: 'Sriracha', cursive;
@@ -864,7 +864,7 @@ h1{
                                  flex-grow: 1;
                                  max-width: 100%;
                                  margin-top: -26%;
-                               height: 50px;
+                               height: 54px;
                                width: 128px;
                                color: #021c46;
                                background-color: #1879c8;
@@ -885,7 +885,7 @@ h1{
                                    flex-grow: 1;
                                    max-width: 100%;
                                    margin-top: -26%;
-                               height: 57px;
+                               height: 72px;
                                width: 156px;
                                color: #021c46;
                                background-color: #1879c8;
@@ -907,7 +907,7 @@ h1{
                                      flex-grow: 1;
                                      max-width: 100%;
                                      margin-top: -26%;
-                               height: 79px;
+                               height: 101px;
                                width: 218px;
                                color: #021c46;
                                background-color: #1879c8;
@@ -928,7 +928,7 @@ h1{
                                        flex-grow: 1;
                                        max-width: 100%;
                                        margin-top: -26%;
-                               height: 94px;
+                               height: 116px;
                                width: 249px;
                                color: #021c46;
                                background-color: #1879c8;
@@ -949,7 +949,7 @@ h1{
                                          flex-grow: 1;
                                          max-width: 100%;
                                          margin-top: -26%;
-                               height: 109px;
+                               height: 140px;
                                width: 300px;
                                color: #021c46;
                                background-color: #1879c8;
@@ -968,7 +968,7 @@ h1{
                                            flex-grow: 1;
                                            max-width: 100%;
                                            margin-top: -26%;
-                               height: 142px;
+                               height: 175px;
                                width: 373px;
                                color: #021c46;
                                background-color: #1879c8;
@@ -989,7 +989,7 @@ h1{
                                              flex-grow: 1;
                                              max-width: 100%;
                                              margin-top: -26%;
-                               height: 172px;
+                               height: 210px;
                                width: 462px;
                                color: #021c46;
                                background-color: #1879c8;
@@ -1010,7 +1010,7 @@ h1{
                                                flex-grow: 1;
                                                max-width: 100%;
                                                margin-top: -26%;
-                                               height: 197px;
+                                               height: 244px;
                                                width: 529px;
                                                color: #021c46;
                                                background-color: #1879c8;
@@ -1031,7 +1031,7 @@ h1{
                                                  flex-grow: 1;
                                                  max-width: 100%;
                                                  margin-top: -26%;
-                                               height: 229px;
+                                               height: 280px;
                                                width: 608px;
                                                color: #021c46;
                                                background-color: #1879c8;
