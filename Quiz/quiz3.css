@@ -33,12 +33,12 @@ img{
   }
   
   #quiz {
-    background-color: #e97373;
+    background-color: #329c5b;
     padding-bottom: 60px;
     width: 100%;
     height: 100%;
     border-radius: 2%;
-    color: #810606;
+    color: #084d25;
     text-align: center;
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
     border-color: #975527;
@@ -54,21 +54,21 @@ img{
     font-size: 28px;
     font-weight: 500;
     font-style: italic;
-    border-top: 2px solid #a11a1a;
-    border-bottom: 2px solid  #a11a1a;
+    border-top: 2px solid #6edf9d;
+    border-bottom: 2px solid  #6edf9d;
     padding: 20px;
-    color: #a11a1a;
+    color: #6edf9d;
   }
   
   .answers div {
     padding: 10px 0 0 0;
     font-size: 16px;
-    color: #a11a1a;
+    color: #6edf9d;
   }
   
   .answers div:hover {
     cursor: pointer;
-    color: rgb(112, 5, 161);
+    color: rgb(23, 39, 133);
   }
   
   .answers {
@@ -83,7 +83,7 @@ img{
     width: 50%;
     margin: 0 auto;
     padding-bottom: 15px;
-    border-top: 1px solid #a11a1a;
+    border-top: 1px solid #6edf9d;
   }
   
   .answers div:first-child {
@@ -98,7 +98,7 @@ img{
   }
   
   .correct, .false {
-    background-color: #109D59;
+    background-color: rgb(126, 223, 218);
     width: 16%;
     height: 100%;
     line-height: 14px;
@@ -137,7 +137,7 @@ img{
     h3{
         font-size: 7px;
         margin-top: 10%;
-        color: #5e2626;
+        color: #084d25;
     }
      }
      @media (min-width: 360px){
