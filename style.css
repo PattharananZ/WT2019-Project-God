@@ -207,3 +207,153 @@ h2{
     margin-top: -42%;
 }
   }
+.contact1{
+  display: flex;
+  background-image: url(Update/part1.jpg);
+  background-size: cover;
+  font-family: 'Sriracha', cursive;
+  font-size: 50px;
+  color: #e7ba65;
+  padding: 1em;
+  text-align: center;
+}
+.contact2{
+  display: flex;
+  background-image: url(Update/part2.jpg);
+  background-size: cover;
+  font-family: 'Sriracha', cursive;
+  font-size: 50px;
+  color: #e7ba65;
+  padding: 1em;
+  text-align: center;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Sriracha', cursive;
+}
+.ct-1{
+  background: #545358;
+  padding: 1em;
+}
+.ct-2{
+  background-color: #acacac;
+  padding: 1em;
+  height: 640px;
+}
+.ct-1 .h2title{
+  color: #e7ba65;
+  font-size: 5em;
+  text-align: center;
+  margin-bottom: 0.5em;
+  text-shadow: 0px 7px 0px black;
+}
+.ct-2 .h2title{
+  color: white;
+  font-size: 3em;
+  text-align: center;
+  margin-bottom: 0.5em;
+  text-shadow: 0px 7px 0px black;
+}
+.ct-1 h3{
+  color: white;
+  font-size: 1.5em;
+  text-align: center;
+  margin-bottom: 1em;
+  text-shadow: 0px 3px 3px black;
+}
+.name{
+  border-radius: 10px;
+  width: 600px;
+  height: 50px;
+  font-family: 'Sriracha', cursive;
+  padding-left: 10px;
+}
+.email{
+  border-radius: 10px;
+  width: 600px;
+  height: 50px;
+  font-family: 'Sriracha', cursive;
+  padding-left: 10px;
+}
+.topic{
+  border-radius: 10px;
+  width: 600px;
+  height: 50px;
+  font-family: 'Sriracha', cursive;
+  padding-left: 10px;
+}
+.message{
+  border-radius: 10px;
+  width: 600px;
+  height: 50px;
+  font-family: 'Sriracha', cursive;
+  padding-left: 10px;
+  height: 100px;
+}
+.sub{
+  text-align: center;
+  marker: auto;
+}
+.pad{
+  padding-bottom: 15px;
+}
+.pad1{
+  padding-bottom: 15px;
+}
+input.contact-input{
+  background-color: #95959f;
+  width:100%;
+  border-radius: 10px;
+  line-height: 3em;
+  padding:.2em 1em;
+  font-family: 'Sriracha', cursive;
+}
+
+.contact-submit{
+    font-family: 'Sriracha', cursive;
+    background-color: #95959f;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    line-height: 2.5;
+    color: white;
+    border: 2px solid #b2893b;
+    padding: 0em 2em;
+    font-size: 1.3em;
+    background: #e7ba65;
+}
+.consultant{
+  border-radius: 50px;
+  width: 150px;
+  height: 150px;
+  border: 1px solid white;
+  margin-bottom: 20px;
+}
+.ct-2 h5{
+  text-align: center;
+}
+.ct-2 h4{
+  text-align: center;
+  color: white;
+  font-size: 2em;
+  margin-bottom: 25px;
+}
+.footer{
+  background: black;
+  color: white;
+  width: 100%;
+}
+.social{
+  margin-left: 20px;
+  width: 60px;
+  height: 60px;
+}
+.bg-yellow{
+  background-color: #e7ba65;
+}
+.space{
+  height: 1.5em;
+}
+.pad h3{
+  text-align: right;
+  margin-top: 15px;
+}
