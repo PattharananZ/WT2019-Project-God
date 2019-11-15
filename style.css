@@ -949,6 +949,7 @@ width: 890px;
       margin-top: -23%;
       margin-left: -45%;
       padding-right: 11px;
+      z-index: 7;
     }
     .topic-text{
         font-size: 13px;
