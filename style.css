@@ -42,6 +42,7 @@ h2{
 #belowP{
   margin-top: -23%;
     margin-left: 18%;
+    z-index: 30;
 }
 .topic-text{
   font-size: 35px;
@@ -949,7 +950,7 @@ width: 890px;
       margin-top: -23%;
       margin-left: -45%;
       padding-right: 11px;
-      z-index: 7;
+      
     }
     .topic-text{
         font-size: 13px;
@@ -1138,8 +1139,9 @@ width: 890px;
     }
     #belowP {
       margin-top: -23%;
-      margin-left: -45%;
-      padding-right: 11px;
+      margin-left: -28%;
+      padding-right: 291px;
+      padding-left: 90px;
     }
     .topic-text{
         font-size: 50px;
@@ -1165,8 +1167,9 @@ width: 890px;
     }
     #belowP {
       margin-top: -23%;
-      margin-left: -45%;
-      padding-right: 11px;
+      margin-left: -28%;
+      padding-right: 291px;
+      padding-left: 90px;
     }
     .topic-text{
         font-size: 60px;
@@ -1192,8 +1195,9 @@ width: 890px;
     }
     #belowP {
       margin-top: -23%;
-      margin-left: -45%;
-      padding-right: 11px;
+      margin-left: -28%;
+      padding-right: 291px;
+      padding-left: 90px;
     }
     .topic-text{
         font-size: 74px;
