@@ -45,8 +45,11 @@ h1 {
     }
     .navbar-nav .nav-link {
         padding-right: 0;
-        padding-left: 23px;
-        margin-left: -88%;
+        padding-left: 14px;
+        font-size: 5px;
+    }
+    .nav-item {
+        width: 30px;
     }
 }
 
@@ -64,8 +67,8 @@ h1 {
     }
     .navbar-nav .nav-link {
         padding-right: 0;
-        padding-left: 23px;
-        margin-left: -88%;
+        padding-left: 14px;
+        font-size: 5px;
     }
 }
 
@@ -75,6 +78,15 @@ h1 {
         padding-left: .5rem;
         font-size: 22px;
         margin-left: 0%;
+    }
+    .nav-item {
+        width: 140px;
+    }
+}
+
+@media (min-width: 1920px) {
+    .nav-item {
+        width: 180px;
     }
 }
 
