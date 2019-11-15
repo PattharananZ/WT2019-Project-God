@@ -944,20 +944,265 @@ width: 890px;
       margin-top: -44%;
       margin-left: 1%;
     }
-    #belowP{
+    #belowP {
       margin-top: -23%;
-        margin-left: 4%;
+      margin-left: -45%;
+      padding-right: 11px;
     }
     .topic-text{
-      font-size: 35px;
-      color: rgb(52, 65, 121);
-      font-family: 'Sriracha', cursive;
-      margin-top : -52.5%;
-      text-shadow: 2px 2px rgb(9, 11, 114);
-      margin-left: 2%;
+        font-size: 13px;
+        color: rgb(52, 65, 121);
+        font-family: 'Sriracha', cursive;
+        margin-top: -52.5%;
+        text-shadow: 1px 0px rgb(9, 11, 114);
+        margin-left: 2%;
     }
     .color{
-      font-size: 2px;
+      font-size: 4px;
       width: 70px;
+    }
+
+  }
+  @media(min-width :360px){
+    #pics{
+      width: 60px;
+      height: 60px;
+    }
+    #topP{
+      margin-top: -44%;
+      margin-left: 1%;
+    }
+    #belowP {
+      margin-top: -23%;
+      margin-left: -45%;
+      padding-right: 11px;
+    }
+    .topic-text{
+        font-size: 13px;
+        color: rgb(52, 65, 121);
+        font-family: 'Sriracha', cursive;
+        margin-top: -52.5%;
+        text-shadow: 1px 0px rgb(9, 11, 114);
+        margin-left: 2%;
+    }
+    .color{
+      font-size: 4.3px;
+      width: 70px;
+    }
+  }
+  @media(min-width :375px){
+    #pics{
+      width: 63px;
+      height: 63px;
+    }
+    #topP{
+      margin-top: -44%;
+      margin-left: 1%;
+    }
+    #belowP {
+      margin-top: -23%;
+      margin-left: -45%;
+      padding-right: 11px;
+    }
+    .topic-text{
+        font-size: 13px;
+        color: rgb(52, 65, 121);
+        font-family: 'Sriracha', cursive;
+        margin-top: -52.5%;
+        text-shadow: 1px 0px rgb(9, 11, 114);
+        margin-left: 2%;
+    }
+    .color{
+      font-size: 4.5px;
+      width: 80px;
+    }
+  }
+  @media(min-width :411px){
+    #pics{
+      width: 68px;
+      height: 68px;
+    }
+    #topP{
+      margin-top: -44%;
+      margin-left: 1%;
+    }
+    #belowP {
+      margin-top: -23%;
+      margin-left: -45%;
+      padding-right: 11px;
+    }
+    .topic-text{
+        font-size: 15px;
+        color: rgb(52, 65, 121);
+        font-family: 'Sriracha', cursive;
+        margin-top: -52.5%;
+        text-shadow: 1px 0px rgb(9, 11, 114);
+        margin-left: 2%;
+    }
+    .color{
+      font-size: 4.7px;
+      width: 90px;
+    }
+  }
+  @media(min-width :560px){
+    #pics{
+      width: 85px;
+      height: 85px;
+    }
+    #topP{
+      margin-top: -44%;
+      margin-left: 1%;
+    }
+    #belowP {
+      margin-top: -23%;
+      margin-left: -45%;
+      padding-right: 11px;
+    }
+    .topic-text{
+        font-size: 22px;
+        color: rgb(52, 65, 121);
+        font-family: 'Sriracha', cursive;
+        margin-top: -52.5%;
+        text-shadow: 1px 1px rgb(9, 11, 114);
+        margin-left: 2%;
+    }
+    .color{
+      font-size: 6.7px;
+      width: 110px;
+    }
+  }
+  @media(min-width :768px){
+    #pics{
+      width: 110px;
+      height: 110px;
+    }
+    #topP{
+      margin-top: -44%;
+      margin-left: 1%;
+    }
+    #belowP {
+      margin-top: -23%;
+      margin-left: -45%;
+      padding-right: 11px;
+    }
+    .topic-text{
+        font-size: 28px;
+        color: rgb(52, 65, 121);
+        font-family: 'Sriracha', cursive;
+        margin-top: -52.5%;
+        text-shadow: 1px 1px rgb(9, 11, 114);
+        margin-left: 2%;
+    }
+    .color{
+      font-size: 8.7px;
+      width: 150px;
+    }
+  }
+  @media(min-width :1024px){
+    #pics{
+      width: 150px;
+      height: 150px;
+    }
+    #topP{
+      margin-top: -44%;
+      margin-left: 1%;
+    }
+    #belowP {
+      margin-top: -23%;
+      margin-left: -45%;
+      padding-right: 11px;
+    }
+    .topic-text{
+        font-size: 37px;
+        color: rgb(52, 65, 121);
+        font-family: 'Sriracha', cursive;
+        margin-top: -52.5%;
+        text-shadow: 1.3px 1px rgb(9, 11, 114);
+        margin-left: 2%;
+    }
+    .color{
+      font-size: 12.7px;
+      width: 200px;
+    }
+  }
+  @media(min-width :1366px){
+    #pics{
+      width: 200px;
+      height: 200px;
+    }
+    #topP{
+      margin-top: -44%;
+      margin-left: 1%;
+    }
+    #belowP {
+      margin-top: -23%;
+      margin-left: -45%;
+      padding-right: 11px;
+    }
+    .topic-text{
+        font-size: 50px;
+        color: rgb(52, 65, 121);
+        font-family: 'Sriracha', cursive;
+        margin-top: -52.5%;
+        text-shadow: 1.3px 1px rgb(9, 11, 114);
+        margin-left: 2%;
+    }
+    .color{
+      font-size: 15.7px;
+      width: 260px;
+    }
+  }
+  @media(min-width :1560px){
+    #pics{
+      width: 220px;
+      height: 220px;
+    }
+    #topP{
+      margin-top: -44%;
+      margin-left: 1%;
+    }
+    #belowP {
+      margin-top: -23%;
+      margin-left: -45%;
+      padding-right: 11px;
+    }
+    .topic-text{
+        font-size: 60px;
+        color: rgb(52, 65, 121);
+        font-family: 'Sriracha', cursive;
+        margin-top: -52.5%;
+        text-shadow: 1.3px 1px rgb(9, 11, 114);
+        margin-left: 2%;
+    }
+    .color{
+      font-size: 17.7px;
+      width: 300px;
+    }
+  }
+  @media(min-width :1920px){
+    #pics{
+      width: 270px;
+      height: 270px;
+    }
+    #topP{
+      margin-top: -44%;
+      margin-left: 1%;
+    }
+    #belowP {
+      margin-top: -23%;
+      margin-left: -45%;
+      padding-right: 11px;
+    }
+    .topic-text{
+        font-size: 74px;
+        color: rgb(52, 65, 121);
+        font-family: 'Sriracha', cursive;
+        margin-top: -52.6%;
+        text-shadow: 1.7px 1.3px rgb(9, 11, 114);
+        margin-left: 2%;
+    }
+    .color{
+      font-size: 21.7px;
+      width: 380px;
     }
   }
